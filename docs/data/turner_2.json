@@ -1,0 +1,143 @@
+{
+    "@id": "https://w3id.org/https://w3id.org/locolligo/6d0eea9a-bd15-4cd0-bf1a-9b656689bb61",
+    "type": "FeatureCollection",
+    "@context": "https://w3id.org/locolligo/contexts/linkedplaces.jsonld",
+    "features": [
+        {
+            "@id": "https://artuk.org/artworks/30799",
+            "type": "Feature",
+            "properties": {
+                "title": "Venice, from the Guidecca",
+                "url": "https://artuk.org/discover/artworks/venice-from-the-giudecca-30799"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3401068,
+                    45.42750635
+                ]
+            }
+        },
+        {
+            "@id": "https://artuk.org/artworks/30655",
+            "type": "Feature",
+            "properties": {
+                "title": "Lifeboat and Manby Apparatus Going off to a Stranded Vessel",
+                "url": "https://artuk.org/discover/artworks/lifeboat-and-manby-apparatus-going-off-to-a-stranded-vessel-making-the-signal-blue-lights-of-distress-30655"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.736574746,
+                    52.58187651
+                ]
+            }
+        },
+        {
+            "@id": "https://artuk.org/artworks/296850",
+            "type": "Feature",
+            "properties": {
+                "title": "St Michael's Mount",
+                "url": "https://artuk.org/discover/artworks/st-michaels-mount-296850"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.475426167,
+                    50.12333555
+                ]
+            }
+        },
+        {
+            "@id": "https://artuk.org/artworks/30581",
+            "type": "Feature",
+            "properties": {
+                "title": "Line Fishing off Hastings",
+                "url": "https://artuk.org/discover/artworks/line-fishing-off-hastings-30581"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.573760046,
+                    50.85341129
+                ]
+            }
+        },
+        {
+            "@id": "https://artuk.org/artworks/296851",
+            "type": "Feature",
+            "properties": {
+                "title": "Bolton Abbey",
+                "url": "https://artuk.org/discover/artworks/bolton-abbey-296851"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.887093641,
+                    53.98230166
+                ]
+            }
+        },
+        {
+            "@id": "https://artuk.org/artworks/233233",
+            "type": "Feature",
+            "properties": {
+                "title": "View of the High Street, Oxford",
+                "url": "https://artuk.org/discover/artworks/view-of-the-high-street-oxford-233233"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.25666568,
+                    51.74925854
+                ]
+            }
+        },
+        {
+            "@id": "https://artuk.org/artworks/202562",
+            "type": "Feature",
+            "properties": {
+                "title": "George IV at St Giles's, Edinburgh",
+                "url": "https://artuk.org/discover/artworks/george-iv-at-st-giless-edinburgh-202562"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.191052734,
+                    55.94952572
+                ]
+            }
+        },
+        {
+            "@id": "https://artuk.org/artworks/202340",
+            "type": "Feature",
+            "properties": {
+                "title": "War The Exile and the Rock Limpet",
+                "url": "https://artuk.org/discover/artworks/war-the-exile-and-the-rock-limpet-202340"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.696297433,
+                    -15.9657949
+                ]
+            }
+        }
+    ],
+    "indexing": {
+        "@type": "Dataset",
+        "name": "turner_test",
+        "description": "",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "identifier": "https://w3id.org/https://w3id.org/locolligo/6d0eea9a-bd15-4cd0-bf1a-9b656689bb61",
+        "temporalCoverage": "1066/2022",
+        "spatialCoverage": {
+            "@type": "GeoShape",
+            "box": "0.580101 0.00149 60.355 9.78667",
+            "geo": {
+                "@type": "GeoShape",
+                "box": "15.9657949 0.573760046 55.94952572 12.3401068"
+            }
+        }
+    }
+}
