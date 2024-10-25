@@ -7,7 +7,7 @@
             "@id": "https://artuk.org/artworks/30799",
             "type": "Feature",
             "properties": {
-                "title": "Venice, from the Guidecca",
+                "title": "Venice, from the Giudecca",
                 "url": "https://artuk.org/discover/artworks/venice-from-the-giudecca-30799"
             },
             "geometry": {
@@ -16,7 +16,13 @@
                     12.3401068,
                     45.42750635
                 ]
-            }
+            },
+            "depictions": [
+                { "@id": "https://d3d00swyhr67nd.cloudfront.net/w300h300/collection/VA/PC/VA_PC_2006AM7613-001.jpg",
+                "title": "Venice, from the Giudecca",
+                "license": "Rights Reserved"
+              } 
+            ]
         },
         {
             "@id": "https://artuk.org/artworks/30655",
