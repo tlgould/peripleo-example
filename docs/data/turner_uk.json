@@ -1,0 +1,53 @@
+{
+    "@id": "https://w3id.org/turner_uk",
+    "type": "FeatureCollection",
+    "@context": "https://w3id.org/locolligo/contexts/linkedplaces.jsonld",
+    "features": [
+        {
+            "@id": "https://artuk.org/artworks/30655",
+            "type": "Feature",
+            "properties": {
+                "title": "Lifeboat and Manby Apparatus Going off to a Stranded Vessel Making the Signal (Blue Lights) of Distress",
+                "url": "https://artuk.org/discover/artworks/lifeboat-and-manby-apparatus-going-off-to-a-stranded-vessel-making-the-signal-blue-lights-of-distress-30655"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.736574746,
+                    52.58187651
+                ]
+            }
+        },
+        {
+            "@id": "https://artuk.org/artworks/296850",
+            "type": "Feature",
+            "properties": {
+                "title": "St Michaels Mount",
+                "url": "https://artuk.org/discover/artworks/st-michaels-mount-296850"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.475426167,
+                    50.12333555
+                ]
+            }
+        }
+    ],
+    "indexing": {
+        "@type": "Dataset",
+        "name": "turner_uk",
+        "description": "",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "identifier": "https://w3id.org/turner_uk",
+        "temporalCoverage": "1066/2022",
+        "spatialCoverage": {
+            "@type": "GeoShape",
+            "box": "0.580101 0.00149 60.355 9.78667",
+            "geo": {
+                "@type": "GeoShape",
+                "box": "50.12333555 1.736574746 52.58187651 5.475426167"
+            }
+        }
+    }
+}
