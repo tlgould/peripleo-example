@@ -1,5 +1,4 @@
 {
-    "@id": "https://w3id.org/turner_uk",
     "type": "FeatureCollection",
     "@context": "https://w3id.org/locolligo/contexts/linkedplaces.jsonld",
     "features": [
@@ -7,7 +6,7 @@
             "@id": "https://artuk.org/artworks/30655",
             "type": "Feature",
             "properties": {
-                "title": "Lifeboat and Manby Apparatus Going off to a Stranded Vessel Making the Signal (Blue Lights) of Distress",
+                "title": "Lifeboat and Manby Apparatus Going off to a Stranded Vessel",
                 "url": "https://artuk.org/discover/artworks/lifeboat-and-manby-apparatus-going-off-to-a-stranded-vessel-making-the-signal-blue-lights-of-distress-30655"
             },
             "geometry": {
